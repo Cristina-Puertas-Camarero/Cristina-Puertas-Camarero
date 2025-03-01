@@ -13,5 +13,5 @@ Apasionada del análisis de datos y la visualización de información con herram
 ###  Cómo contactar conmigo:
 - ✉️ [Correo electrónico](cris.puertascamarero@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristina-puertas-camarero-8955a6349/)
-### ✨ Dato curioso:Un dato curioso sobre mí: ¡Disfruto desenredando cables! 
+### ✨ Dato curioso: ¡Disfruto desenredando cables! 
 
