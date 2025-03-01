@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 ¡Hola! Soy Cristina Puertas Camarero
+
+# 👋 ¡Hello there! Soy Cristina 
 
 Apasionada del análisis de datos y la visualización de información con herramientas como **Microsoft Power BI**, **SQL** y **Excel**. Me encanta convertir datos en ideas.
 
@@ -22,5 +22,5 @@ Apasionada del análisis de datos y la visualización de información con herram
 - ✉️ [Correo electrónico](cris.puertascamarero@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristina-puertas-camarero-8955a6349/)
 
-## ✨ Dato curioso:Un dato curioso sobre mí: ¡ordeno los calcetines por colores!
+## ✨ Dato curioso:Un dato curioso sobre mí: ¡Disfruto desenredando cables!
 
