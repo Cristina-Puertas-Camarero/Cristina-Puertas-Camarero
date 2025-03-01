@@ -11,8 +11,9 @@ Apasionada del análisis de datos y la visualización de información con herram
 - 🌍 Vivo en España, ¡pero disfruto trabajar en proyectos globales!
 
 ## 📚 En aprendizaje:
-- 👨‍💻 Automatización de procesos con **Power Query** y **Python**.
-- ☁️ Conexión de datos en la nube para soluciones de **Business Intelligence**.
+-📘 Actualmente estoy realizando un bootcamp de Data Analytics en Ironhack, donde estoy fortaleciendo mis habilidades en análisis de datos, SQL, Python y visualización.
+
+-🖥️ También estoy cursando un programa especializado en Microsoft Power BI a través de la Universidad Nacional de Educación a Distancia (UNED), enfocándome en la creación de dashboards interactivos y análisis de datos avanzado.
 
 ## 🌟 Diversión:
 - ⚡ Curiosidad por aprender sobre nuevas tecnologías.
