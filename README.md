@@ -1,6 +1,6 @@
 
 
-# 👋 ¡Hello there! Soy Cristina 
+## 👋 ¡Hello there! Soy Cristina 
 
 Apasionada del análisis de datos y la visualización de información con herramientas como **Microsoft Power BI**, **SQL** y **Excel**. Me encanta convertir datos en ideas.
 
