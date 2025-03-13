@@ -2,7 +2,7 @@
 
 ## 👋 ¡Hello there! Soy Cristina 
 
-Apasionada del análisis de datos y la visualización de información con herramientas como **Microsoft Power BI**, **SQL** y **Excel**. Me encanta convertir datos en ideas.
+Apasionada del análisis de datos y la visualización de información con herramientas como **Microsoft Power BI**, **SQL** y **Tableau**. Me encanta convertir datos en ideas.
 
 ###  Sobre mí:
 - 🔍 Actualmente estoy explorando técnicas avanzadas de análisis de datos y visualización interactiva.
