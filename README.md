@@ -49,7 +49,6 @@ Apasionada por el **Data Analytics**, la **visualización interactiva**, y la **
 ## 📬 **¿Quieres saber más? ¡Contáctame!**
 - ✉️ [cris.puertascamarero@gmail.com](mailto:cris.puertascamarero@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristina-puertas-camarero-8955a6349/)
-- 🌐 [Portafolio (añade el enlace si tienes)](https://tu-web-personal.com)
 
 ---
 
