@@ -58,7 +58,7 @@ Me encanta desenrollar cables y Star Wars 💪😉
 ---
 
 ### **Trabajo**  
-Actualmente formo parte del equipo de Data en **Grupo Procourval SL**. 
+Actualmente formo parte del equipo de Data en **Grupo Procourval** [Perfil](https://github.com/GrupoProcourval).
 
 
 
