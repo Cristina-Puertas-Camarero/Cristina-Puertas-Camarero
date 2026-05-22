@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:6d28d9&height=260&section=header&text=Cristina%20Puertas%20Camarero&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20·%20Automation%20·%20IT%20·%20AI&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a3d,100:0ea5e9&height=260&section=header&text=Cristina%20Puertas%20Camarero&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20·%20Automation%20·%20IT%20·%20AI&descSize=17&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=580&lines=Data+Specialist+%26+IT+Lead+%40+Grupo+Procourval;Process+Automation+Engineer;Web+App+Developer;Claude+AI+Certified+%E2%80%94+Full+Ecosystem" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=580&lines=Data+Specialist+%26+IT+Lead+%40+Grupo+Procourval;Process+Automation+Engineer;Web+App+Developer;Claude+AI+Certified+%E2%80%94+Full+Ecosystem" alt="Typing SVG"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cristina-Puertas-Camarero&label=Profile+Views&color=6d28d9&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Cristina-Puertas-Camarero&label=Profile+Views&color=0ea5e9&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristina%20Puertas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-cris.puertascamarero@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cris.puertascamarero@gmail.com)
-[![Grupo Procourval](https://img.shields.io/badge/org-Grupo%20Procourval-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/GrupoProcourval)
+[![Grupo Procourval](https://img.shields.io/badge/org-Grupo%20Procourval-0ea5e9?style=flat-square&logo=github&logoColor=white)](https://github.com/GrupoProcourval)
 
 </div>
 
 ---
 
-## `> whoami`
+## `> about`
 
 Soy Cristina. Trabajo en la intersección entre los datos, la automatización y la tecnología organizacional — un perfil que no encaja bien en una sola etiqueta, y eso es exactamente lo que lo hace valioso.
 
@@ -58,13 +58,13 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 
 <br/><br/>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=flat-square&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-7c3aed?style=flat-square)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-0ea5e9?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
 </div>
@@ -106,12 +106,12 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristina-Puertas-Camarero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Cristina-Puertas-Camarero&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristina-Puertas-Camarero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38bdf8&title_color=38bdf8"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Cristina-Puertas-Camarero&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristina-Puertas-Camarero&theme=tokyo-night&hide_border=true&area=true&area_color=6d28d9)](https://github.com/Cristina-Puertas-Camarero)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristina-Puertas-Camarero&bg_color=1a1b27&color=a9b1d6&line=38bdf8&point=ffffff&area=true&area_color=0c2040&hide_border=true)](https://github.com/Cristina-Puertas-Camarero)
 
 </div>
 
@@ -119,11 +119,15 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 
 <div align="center">
 
+*"Do. Or do not. There is no try."*
+
+<br/>
+
 Si tienes un problema de datos, un proceso que automatizar, o simplemente quieres hablar de tecnología aplicada — escríbeme.
 
 **[cris.puertascamarero@gmail.com](mailto:cris.puertascamarero@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,60:1e1b4b,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,60:0c1a3d,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
 
