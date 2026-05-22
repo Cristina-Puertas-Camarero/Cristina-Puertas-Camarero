@@ -89,11 +89,6 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-0ea5e9?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
-<br/>
-
-**Actividad anual**
-
-<img src="https://ghchart.rshah.org/38bdf8/Cristina-Puertas-Camarero" alt="GitHub Contributions" width="100%"/>
 
 </div>
 
@@ -190,12 +185,12 @@ Clasificación de masas mamarias con el dataset WDBC. Comparativa de algoritmos 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristina-Puertas-Camarero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38bdf8&title_color=38bdf8"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Cristina-Puertas-Camarero&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cristina-Puertas-Camarero&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" width="100%"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristina-Puertas-Camarero&bg_color=1a1b27&color=a9b1d6&line=38bdf8&point=ffffff&area=true&area_color=0c2040&hide_border=true)](https://github.com/Cristina-Puertas-Camarero)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristina-Puertas-Camarero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=38bdf8&title_color=38bdf8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristina-Puertas-Camarero&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8"/>
 
 </div>
 
