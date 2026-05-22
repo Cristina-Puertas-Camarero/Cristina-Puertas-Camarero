@@ -17,9 +17,31 @@
 
 ## `> about`
 
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
 Soy Cristina. Trabajo en la intersección entre los datos, la automatización y la tecnología organizacional — un perfil que no encaja bien en una sola etiqueta, y eso es exactamente lo que lo hace valioso.
 
 Empecé en el análisis de datos. Aprendí que los datos no sirven de nada si el proceso que los genera es manual, lento o inestable. Así que empecé a automatizar. Y cuando automatizas lo suficiente, inevitablemente empiezas a gestionar la infraestructura que lo soporta. Hoy lidero parte del departamento de IT de **Grupo Procourval**, desarrollo aplicaciones web internas, integro IA propia en flujos de trabajo reales, y sigo haciendo análisis y visualización cuando el problema lo requiere.
+
+</td>
+<td width="38%" valign="top">
+
+```yaml
+location    : Cádiz, España
+company     : Grupo Procourval
+role        : IT Lead · Dev · Data
+languages   : Python · SQL · JS
+ai_certs    : Claude (full ecosystem)
+other_certs : Power BI · Azure
+              Ironhack · UNED BI
+currently   : automating everything
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,6 +89,12 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-0ea5e9?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
+<br/>
+
+**Actividad anual**
+
+<img src="https://ghchart.rshah.org/38bdf8/Cristina-Puertas-Camarero" alt="GitHub Contributions" width="100%"/>
+
 </div>
 
 ---
@@ -75,13 +103,33 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center"><b>Claude AI</b><br/>Ecosistema completo<br/><sub>Anthropic</sub></td>
-<td align="center"><b>Power BI</b><br/>Data Analyst<br/><sub>Microsoft</sub></td>
-<td align="center"><b>Azure</b><br/>Fundamentals<br/><sub>Microsoft</sub></td>
-<td align="center"><b>Data Analyst</b><br/>Bootcamp<br/><sub>Ironhack</sub></td>
-<td align="center"><b>Business Intelligence</b><br/>Especialización<br/><sub>UNED</sub></td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-Claude%20AI-0ea5e9?style=for-the-badge&logoColor=white" /><br/>
+<sub>Ecosistema completo</sub><br/>
+<sub><b>Anthropic</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
+<sub>Data Analyst</sub><br/>
+<sub><b>Microsoft</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
+<sub>Fundamentals</sub><br/>
+<sub><b>Microsoft</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-Data%20Analyst-FF4B4B?style=for-the-badge&logoColor=white" /><br/>
+<sub>Bootcamp</sub><br/>
+<sub><b>Ironhack</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/-Business%20Intel-1a1b27?style=for-the-badge&logoColor=white" /><br/>
+<sub>Especialización</sub><br/>
+<sub><b>UNED</b></sub>
+</td>
 </tr>
 </table>
 
@@ -93,10 +141,46 @@ Integración de modelos de lenguaje propios en procesos de negocio. NLP, clasifi
 
 <div align="center">
 
-[![Trigger Key Words](https://github-readme-stats.vercel.app/api/pin/?username=Cristina-Puertas-Camarero&repo=Trigger_Key_Words&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Cristina-Puertas-Camarero/Trigger_Key_Words)
-[![A/B Testing Vanguard](https://github-readme-stats.vercel.app/api/pin/?username=Cristina-Puertas-Camarero&repo=A-B-Testing-Vanguard&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Cristina-Puertas-Camarero/A-B-Testing-Vanguard)
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
-[![ML Breast Cancer Diagnostics](https://github-readme-stats.vercel.app/api/pin/?username=Cristina-Puertas-Camarero&repo=Machine_Learning_for_Breast_Cancer_Diagnostics&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Cristina-Puertas-Camarero/Machine_Learning_for_Breast_Cancer_Diagnostics)
+**[Trigger Key Words](https://github.com/Cristina-Puertas-Camarero/Trigger_Key_Words)**
+
+Detección de riesgo de suicidio mediante análisis de texto con NLP. App interactiva en Streamlit y análisis visual en Power BI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0ea5e9?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</td>
+<td align="center" width="50%">
+
+**[A/B Testing Vanguard](https://github.com/Cristina-Puertas-Camarero/A-B-Testing-Vanguard)**
+
+Análisis de experiencia de cliente comparando versiones de una app financiera. Resultados estadísticos orientados a decisión ejecutiva.
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0ea5e9?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**[ML para Diagnóstico de Cáncer de Mama](https://github.com/Cristina-Puertas-Camarero/Machine_Learning_for_Breast_Cancer_Diagnostics)**
+
+Clasificación de masas mamarias con el dataset WDBC. Comparativa de algoritmos de ML con análisis de métricas clínicas relevantes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
